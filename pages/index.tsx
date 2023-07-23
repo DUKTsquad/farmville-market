@@ -26,7 +26,7 @@ const Home: NextPage = () => {
           </div>
           <div className={styles.heroAssetFrame}>
             <Image
-              src="/hero-asset.png"
+              src="/hero-asset1.png"
               width={860}
               height={540}
               alt="Hero asset, NFT marketplace"
@@ -38,21 +38,21 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  NFT Farmville Marketplace
                 </span>
                 <br />
-                faster than ever.
+                Buy - Sell - Auction
               </h1>
               <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
-                  href="https://thirdweb.com"
+                  href="https://shynz.net"
                   target="_blank"
                 >
-                  thirdweb
+                  Farmville
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                Marketplace gives you the tools you need to buy, sell, and auction
+                your Farmville NFT Items  <b>instantly</b>, <i>any time</i>.
               </p>
 
               <div className={styles.heroCtaContainer}>
@@ -64,7 +64,7 @@ const Home: NextPage = () => {
                   href="https://github.com/thirdweb-example/marketplace-v3"
                   target="_blank"
                 >
-                  GitHub
+                  Visit Farmville
                 </Link>
               </div>
             </div>
