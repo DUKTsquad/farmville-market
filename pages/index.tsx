@@ -61,7 +61,7 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://taupe-tanuki-791e20.netlify.app/"
                   target="_blank"
                 >
                   Visit Farmville
